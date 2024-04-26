@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="generate_password">Generate Password</string>
+    <string name="copy">Copy</string>
+    <string name="saved_passwords">Saved Passwords</string>
+    <string name="Developer">Developer</string>
+    <string name="regenerate_password">Regenerate Password</string>
+</resources>

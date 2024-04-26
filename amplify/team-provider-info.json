@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-passwordmanager-dev-3d51b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::590184102824:role/amplify-passwordmanager-dev-3d51b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::590184102824:role/amplify-passwordmanager-dev-3d51b-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-passwordmanager-dev-3d51b-deployment",
+      "UnauthRoleName": "amplify-passwordmanager-dev-3d51b-unauthRole",
+      "StackName": "amplify-passwordmanager-dev-3d51b",
+      "StackId": "arn:aws:cloudformation:us-east-1:590184102824:stack/amplify-passwordmanager-dev-3d51b/09ab6260-03b7-11ef-aadd-12a52b6dc3d7",
+      "AmplifyAppId": "dz8bayycqgzc0"
+    },
+    "categories": {
+      "auth": {
+        "passwordmanager": {}
+      },
+      "analytics": {
+        "passwordmanager": {}
+      }
+    }
+  }
+}

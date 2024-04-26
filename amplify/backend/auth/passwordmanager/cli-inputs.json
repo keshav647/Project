@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "passwordmanager_identitypool_6c001893",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "passwordmanager",
+    "sharedId": "6c001893",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

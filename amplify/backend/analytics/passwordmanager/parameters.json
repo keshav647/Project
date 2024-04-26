@@ -1,0 +1,21 @@
+{
+    "appName": "passwordmanager",
+    "roleName": "pinpointLambdaRole453f0e95",
+    "cloudformationPolicyName": "cloudformationPolicy453f0e95",
+    "cloudWatchPolicyName": "cloudWatchPolicy453f0e95",
+    "pinpointPolicyName": "pinpointPolicy453f0e95",
+    "authPolicyName": "pinpoint_amplify_453f0e95",
+    "unauthPolicyName": "pinpoint_amplify_453f0e95",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}
